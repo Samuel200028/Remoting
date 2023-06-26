@@ -1,0 +1,6 @@
+D:\Archivos\Visual Studio\DotNetRemoting\MyProduct\bin\Debug\MyProduct.dll
+D:\Archivos\Visual Studio\DotNetRemoting\MyProduct\bin\Debug\MyProduct.pdb
+D:\Archivos\Visual Studio\DotNetRemoting\MyProduct\obj\Debug\MyProduct.csproj.AssemblyReference.cache
+D:\Archivos\Visual Studio\DotNetRemoting\MyProduct\obj\Debug\MyProduct.csproj.CoreCompileInputs.cache
+D:\Archivos\Visual Studio\DotNetRemoting\MyProduct\obj\Debug\MyProduct.dll
+D:\Archivos\Visual Studio\DotNetRemoting\MyProduct\obj\Debug\MyProduct.pdb

@@ -1,0 +1,11 @@
+D:\Archivos\Visual Studio\DotNetRemoting\DotNetRemoting\obj\Debug\DotNetRemoting.csproj.AssemblyReference.cache
+D:\Archivos\Visual Studio\DotNetRemoting\DotNetRemoting\obj\Debug\DotNetRemoting.csproj.SuggestedBindingRedirects.cache
+D:\Archivos\Visual Studio\DotNetRemoting\DotNetRemoting\obj\Debug\DotNetRemoting.csproj.CoreCompileInputs.cache
+D:\Archivos\Visual Studio\DotNetRemoting\DotNetRemoting\bin\Debug\DotNetRemoting.exe.config
+D:\Archivos\Visual Studio\DotNetRemoting\DotNetRemoting\bin\Debug\DotNetRemoting.exe
+D:\Archivos\Visual Studio\DotNetRemoting\DotNetRemoting\bin\Debug\DotNetRemoting.pdb
+D:\Archivos\Visual Studio\DotNetRemoting\DotNetRemoting\bin\Debug\MyProduct.dll
+D:\Archivos\Visual Studio\DotNetRemoting\DotNetRemoting\bin\Debug\MyProduct.pdb
+D:\Archivos\Visual Studio\DotNetRemoting\DotNetRemoting\obj\Debug\DotNetRemoting.csproj.CopyComplete
+D:\Archivos\Visual Studio\DotNetRemoting\DotNetRemoting\obj\Debug\DotNetRemoting.exe
+D:\Archivos\Visual Studio\DotNetRemoting\DotNetRemoting\obj\Debug\DotNetRemoting.pdb
